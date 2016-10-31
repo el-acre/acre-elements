@@ -23,14 +23,14 @@
     "tests"
   ],
   "dependencies": {
-    "acre-product": "https://github.com/victorhugom/acre-product.git",
-    "acre-image": "https://github.com/victorhugom/acre-image.git",
-    "acre-address-form": "https://github.com/victorhugom/acre-address-form.git#^1.0.3",
-    "acre-toolbar": "https://github.com/victorhugom/acre-toolbar.git",
-    "acre-creditcard-form": "https://github.com/victorhugom/acre-creditcard-form.git",
-    "acre-review": "https://github.com/el-acre/acre-review",
-    "acre-product-group": "https://github.com/el-acre/acre-product-group",
-    "acre-map-list": "https://github.com/el-acre/acre-map-list",
-    "acre-animated-background": "https://github.com/el-acre/acre-animated-background"
+    "acre-product": "https://github.com/el-acre/acre-product.git",
+    "acre-image": "https://github.com/el-acre/acre-image.git",
+    "acre-address-form": "https://github.com/el-acre/acre-address-form.git#master",
+    "acre-toolbar": "https://github.com/el-acre/acre-toolbar.git",
+    "acre-creditcard-form": "https://github.com/el-acre/acre-creditcard-form.git",
+    "acre-review": "https://github.com/el-acre/acre-review.git",
+    "acre-product-group": "https://github.com/el-acre/acre-product-group.git",
+    "acre-map-list": "https://github.com/el-acre/acre-map-list.git",
+    "acre-animated-background": "https://github.com/el-acre/acre-animated-background.git"
   }
 }
